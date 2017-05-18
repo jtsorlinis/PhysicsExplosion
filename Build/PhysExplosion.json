@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "PhysExplosion.data.unityweb",
+"asmCodeUrl": "PhysExplosion.asm.code.unityweb",
+"asmMemoryUrl": "PhysExplosion.asm.memory.unityweb",
+"asmFrameworkUrl": "PhysExplosion.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
